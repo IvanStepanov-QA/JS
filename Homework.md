@@ -55,6 +55,7 @@
 28. Создать переменную “age_3” и присвоить ей значение 60
 > let age_3 = 60;  
 29. Создать if в котором будете проверять значение переменной age_1  
+<pre>
 30. Если age_1 < age_2, вывести в консоль “You don’t have access cause your age is ” + age_1 > + “ It’s less then ”  
 > if (age_1 < age_2) {  
 >    console.log("You don’t have access cause your age is " + age_1 + ". It’s less then " + age_2)  
@@ -93,3 +94,4 @@ function checkAge(age) {
 checkAge(17);
 checkAge(18);
 checkAge(61);
+</pre>
